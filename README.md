@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... MERN
 - 💞️ I’m looking to collaborate on ... REACTJS PROJECTS
 - 📫 How to reach me ... sourabhsharma181003@gmail.com
-- 🎒 Can checkout my portfolio  https://sourabh32.vercel.app/ have create some cool projects
+- 🎒 Can checkout my portfolio  https://sourabh32.vercel.app/ have created some cool projects
 
 <!---
 sourabh32/sourabh32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
