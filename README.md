@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Bharadwaj</h1>
-<h3 align="center">FullStack - building Front/Back world.s.</h3>
+<h3 align="center">FullStack - building Front/Back worlds.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabh32&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh32" /> </p>
 
